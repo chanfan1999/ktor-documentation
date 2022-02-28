@@ -19,6 +19,9 @@
         You can create and configure a new Ktor project using a dedicated plugin for IntelliJ IDEA Ultimate, or using a web-based project generator.
         In this guide, we'll show you how to create, run, and test a simple Ktor application.
     </p>
+    <p>
+        <a href="https://ktor.io/docs/missing-page.html">404 XML</a>
+    </p>
 
 
     <chapter title="Prerequisites" id="prerequisites">

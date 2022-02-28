@@ -14,6 +14,10 @@ Ktor provides a special testing engine that doesn't create a web server, doesn't
 
 Test markdown link: [404 MD](https://ktor.io/docs/missing-page.html).
 
+<p>
+<a href="https://ktor.io/docs/missing-page.html">404 XML</a>
+</p>
+
 
 
 
